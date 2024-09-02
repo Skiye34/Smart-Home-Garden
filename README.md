@@ -16,13 +16,13 @@ The system uses a DHT11 sensor to measure the temperature and humidity of the en
  
 ## Components Used  
  
-**Arduino Uno**: The main microcontroller that controls the system.
-**Soil Moisture Sensor**: Measures the moisture content in the soil.
-**DHT11 Sensor**: Monitors environmental temperature and humidity.
-**Trimmer Potentiometer**: Simulates the PH sensor.
-**3V DC Water Pump**: Waters the plants as needed.
-**5V Relay Module**: Controls the water pump.
-**LED**: Indicates the activation of the solenoid valve.
+- **Arduino Uno**: The main microcontroller that controls the system.
+- **Soil Moisture Sensor**: Measures the moisture content in the soil.
+- **DHT11 Sensor**: Monitors environmental temperature and humidity.
+- **Trimmer Potentiometer**: Simulates the PH sensor.
+- **3V DC Water Pump**: Waters the plants as needed.
+- **5V Relay Module**: Controls the water pump.
+- **LED**: Indicates the activation of the solenoid valve.
 
 ## Work Completed
 

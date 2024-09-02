@@ -24,6 +24,9 @@ The system uses a DHT11 sensor to measure the temperature and humidity of the en
 - **5V Relay Module**: Controls the water pump.
 - **LED**: Indicates the activation of the solenoid valve.
 
+## Flow Chart
+![alt text](https://github.com/Skiye34/Smart-Home-Garden/blob/main/FlowChart.JPG)
+
 ## Work Completed
 
 ### System Design and Planning 

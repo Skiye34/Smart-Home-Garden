@@ -1,4 +1,3 @@
-
 # Smart-Home-Garden
 
 ## Overview

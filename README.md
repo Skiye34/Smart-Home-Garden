@@ -1,3 +1,4 @@
+
 # Smart-Home-Garden
 
 ## Overview
@@ -45,9 +46,9 @@ The system uses a DHT11 sensor to measure the temperature and humidity of the en
  
 - Implemented logic for soil moisture thresholds
  
-**1. High: < 400** 
-**2. Mid: 400-600** 
-**3. Low: > 600** 
+- - High: < 400
+- - Mid: 400-600
+- - Low: > 600
 
 - Integrated the potentiometer as a simulated fertilizer sensor to trigger the LED. 
 - Conducted initial and full system testing, confirming correct operation of all components. 
